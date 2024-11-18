@@ -2,7 +2,7 @@
 # ATM Project
 
 <img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg
-" width="300" height="200"/>
+" width="300"/>
 
 This is a simple ATM simulation project built with Go.
 
